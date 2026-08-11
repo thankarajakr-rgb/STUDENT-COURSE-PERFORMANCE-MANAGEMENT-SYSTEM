@@ -34,4 +34,4 @@ jac=Streetdogs()
 jac.sound()
 
 
-
+print("Chcek")
